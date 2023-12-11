@@ -1,0 +1,55 @@
+.image {
+    
+  }
+  .image[animation='1'] {
+    animation: wobble 1s 1;
+  }
+  .image[animation='2'] {
+    animation: voltar 1s 1;
+  }
+  
+  @keyframes wobble {
+    25% {
+    /*   transform: rotate(15deg); */
+      height: 0%;
+      width: 0;
+    }
+    50% {
+     /*  transform: rotate(-30deg); */
+      width: 50%;
+      height: 50%;
+    }
+    75% {
+    /*   transform: rotate(5deg); */
+    
+    }
+    100% {
+    /*   transform: rotate(0deg); */
+      height: 100%;
+      width: 100%
+    }
+  }
+
+  @keyframes volta {
+    25% {
+    /*   transform: rotate(15deg); */
+      height: 100%;
+      width: 100%;
+    }
+    50% {
+     /*  transform: rotate(-30deg); */
+      width: 50%;
+      height: 50%;
+    }
+    75% {
+    /*   transform: rotate(5deg); */
+    
+    }
+    100% {
+    /*   transform: rotate(0deg); */
+      height: 0%;
+      width: 0%
+    }
+  }
+
+  
