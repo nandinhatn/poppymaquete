@@ -2,11 +2,11 @@ import React, { useEffect } from "react";
 
 import AwesomeSlider from 'react-awesome-slider';
 
-import Foto1 from '../../assets/imagem3dPostIt.jpg';
-import Foto2 from '../../assets/Becksaerea0000.jpg';
-import Foto3 from '../../assets/standYpe.jpg';
-import Foto4 from '../../assets/loreal.jpg';
-import Video from '../../assets/ValePoppyMidia- MaqueteEletronica 3d.mp4'
+import Foto1 from '../../assets/imagem3dPostIt.webp';
+
+import Foto3 from '../../assets/standYpe.webp';
+import Foto4 from '../../assets/loreal.webp';
+
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination , Autoplay} from "swiper/modules";
 import 'swiper/css';
@@ -34,12 +34,12 @@ const Banner = ()=>{
       onSwiper={(swiper) => console.log(swiper)}
     >
       <SwiperSlide>
-        <Img  src={Foto1}/>
+        <Img alt="Imagem 3d Post It"  src={Foto1}/>
       </SwiperSlide>
      
 
-      <SwiperSlide> <Img  src={Foto3}/></SwiperSlide>
-      <SwiperSlide><Img  src={Foto4}/></SwiperSlide>
+      <SwiperSlide> <Img  alt="Imagem 3d do Stand Ype" src={Foto3}/></SwiperSlide>
+      <SwiperSlide><Img  alt="Imagem 3d do Evento da Loreal" src={Foto4}/></SwiperSlide>
       
      
       

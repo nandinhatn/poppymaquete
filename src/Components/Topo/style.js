@@ -30,7 +30,7 @@ padding: 20px;
 cursor: pointer;
 `;
 
-export const Menu = styled.div`
+export const Menu = styled.ul`
    list-style: none;
     color: white;
     display: flex;

@@ -10,7 +10,7 @@ const Footer = ()=>{
     return(
         <>
         <Container>
-            <Logo src={Logo1}></Logo>
+            <Logo alt="Logo Poppy Midia" aria-label="logo da poppy" src={Logo1}></Logo>
             <ContainerLinks>
                 <div style={{cursor:'pointer'}} onClick={()=> navigate('/')} >
                     Home
@@ -20,12 +20,12 @@ const Footer = ()=>{
             </ContainerLinks>
             <ContainerLogos>
                     <ContainerLogosFooter>
-                    <Logo src={Logo1}></Logo>
+                    <Logo alt="Logo Poppy Midia" aria-label="logo da poppy" src={Logo1}></Logo>
                     <div>Maquetes</div>
                     </ContainerLogosFooter>
                     <ContainerLogosFooter>
 
-                    <a href='http://www.poppymidia.com' target='_blank'><Logo src={Logo2}></Logo></a>
+                    <a href='http://www.poppymidia.com' aria-label="logo da poppy midia que leva ao site do desenvolvimento" target='_blank'><Logo alt="Logo Poppy Midia Sites" src={Logo2}></Logo></a>
                         <div>Web | Sites</div>
                     </ContainerLogosFooter>
                

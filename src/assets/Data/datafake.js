@@ -1,10 +1,10 @@
-const data=[
+ data=[
     {
         'width': '1920',
         'height': '1080',
         'image': 'http://www.poppymidia.com.br/images/20-107 - lounge.jpg',
         'caption' : 'Lounge Arquitetura Coportativa',
-        'alt' : 'Imagem 3d Loungue Arquitutura Corporativa',
+        'alt' : 'Imagem 3d Loungue Arquitetura Corporativa',
         'categoria':'Arquitetura'
     },
     {
@@ -67,7 +67,7 @@ const data=[
     {
         'width': '1280',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/AUA - 10 andar - staff 010000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-eletronica-imagem-arquitetura-corporativa.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Corporativa 3d - Estação de Trabalho',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Corporativa 3d - Estação de Trabalho',
         'categoria': 'Arquitetura'
@@ -76,7 +76,7 @@ const data=[
     {
         'width': '1280',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/AUA - 11 andar - aerea0000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-arquitetura-corporativa-imagem-aerea.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Corporativa 3d - Planta',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Corporativa 3d - Planta',
         'categoria': 'Arquitetura'
@@ -84,7 +84,7 @@ const data=[
     {
         'width': '1280',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/AUA - 11 andar - cafeteria0000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-arquitetura-corporativa-cafeteria.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Corporativa 3d - Cateferia',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Corporativa 3d - Cafeteria',
         'categoria': 'Arquitetura'
@@ -174,7 +174,7 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Becksaerea0000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-eventos-imagem-aerea.webp',
         'caption' : 'Imagem 3d - Maquete - Becks Evento',
         'alt' : 'Imagem 3d - Maquete - Becks Evento',
         'categoria': 'Eventos'
@@ -183,7 +183,7 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Becks bar0000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-eventos-becks-bar.webp',
         'caption' : 'Imagem 3d - Maquete - Becks Evento',
         'alt' : 'Imagem 3d - Maquete - Becks Evento',
         'categoria': 'Eventos'
@@ -191,32 +191,7 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Becks entrada .jpg',
-        'caption' : 'Imagem 3d - Maquete - Becks Evento',
-        'alt' : 'Imagem 3d - Maquete - Becks Evento',
-        'categoria': 'Eventos'
-    },
-
-    {
-        'width': '1920',
-        'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Becks palco 0000.jpg',
-        'caption' : 'Imagem 3d - Maquete - Becks Evento',
-        'alt' : 'Imagem 3d - Maquete - Becks Evento',
-        'categoria': 'Eventos'
-    },
-    {
-        'width': '1920',
-        'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Becks URBECK_S (3).jpg',
-        'caption' : 'Imagem 3d - Maquete - Becks Evento',
-        'alt' : 'Imagem 3d - Maquete - Becks Evento',
-        'categoria': 'Eventos'
-    },
-    {
-        'width': '1920',
-        'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Becks URBECK_S (4).jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-eventos-becks-entrada.webp',
         'caption' : 'Imagem 3d - Maquete - Becks Evento',
         'alt' : 'Imagem 3d - Maquete - Becks Evento',
         'categoria': 'Eventos'
@@ -225,7 +200,7 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Becks URBECK_S (5).jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-eventos-becks-palco.webp',
         'caption' : 'Imagem 3d - Maquete - Becks Evento',
         'alt' : 'Imagem 3d - Maquete - Becks Evento',
         'categoria': 'Eventos'
@@ -233,7 +208,32 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Becks URBECK_S (6).jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-eventos-uber-becks.webp',
+        'caption' : 'Imagem 3d - Maquete - Becks Evento',
+        'alt' : 'Imagem 3d - Maquete - Becks Evento',
+        'categoria': 'Eventos'
+    },
+    {
+        'width': '1920',
+        'height': '1080',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-eventos-uber-becks1.webp',
+        'caption' : 'Imagem 3d - Maquete - Becks Evento',
+        'alt' : 'Imagem 3d - Maquete - Becks Evento',
+        'categoria': 'Eventos'
+    },
+
+    {
+        'width': '1920',
+        'height': '1080',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-eventos-uber-becks-imagem2.webp',
+        'caption' : 'Imagem 3d - Maquete - Becks Evento',
+        'alt' : 'Imagem 3d - Maquete - Becks Evento',
+        'categoria': 'Eventos'
+    },
+    {
+        'width': '1920',
+        'height': '1080',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-eventos-uber-becks-imagem3.webp',
         'caption' : 'Imagem 3d - Maquete - Becks Evento',
         'alt' : 'Imagem 3d - Maquete - Becks Evento',
         'categoria': 'Eventos'
@@ -397,7 +397,7 @@ const data=[
     {
         'width': '1100',
         'height': '647',
-        'image': 'http://www.poppymidia.com.br/images/Camera002-6.jpg',
+        'image': 'http://www.poppymidia.com.br/images/imagem3d-coca-cola-stand-maquete.webp',
         'caption' : 'Imagem 3d - Maquete - Stand Coca-Cola',
         'alt' : 'Imagem 3d - Maquete - Stand Coca-Cola',
         'categoria': 'Stands'
@@ -424,7 +424,7 @@ const data=[
     {
         'width': '1280',
         'height': '720',
-        'image': 'http://www.poppymidia.com.br/images/Camila frontal.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-evento-frontal-fachada.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -433,7 +433,7 @@ const data=[
     {
         'width': '1280',
         'height': '720',
-        'image': 'http://www.poppymidia.com.br/images/Camila posterior.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-evento-frontal-fachada-arquitetura-posterior.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -444,7 +444,7 @@ const data=[
     {
         'width': '1600',
         'height': '900',
-        'image': 'http://www.poppymidia.com.br/images/Casa Jean 01B.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Casa-Jean-01B.webp.jpg',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -453,7 +453,7 @@ const data=[
     {
         'width': '1600',
         'height': '900',
-        'image': 'http://www.poppymidia.com.br/images/Casa Jean 02B.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Casa-Jean-02B.webp.jpg',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -462,7 +462,7 @@ const data=[
     {
         'width': '1600',
         'height': '900',
-        'image': 'http://www.poppymidia.com.br/images/Casa Jean 03B.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Casa-Jean-03B.webp.jpg',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -470,7 +470,7 @@ const data=[
     {
         'width': '1600',
         'height': '900',
-        'image': 'http://www.poppymidia.com.br/images/Casa Jean 04B.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Casa-Jean-04B.webp.jpg',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -580,7 +580,7 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/CS -SC - FISK -Festa 0010000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/imagem-3d-festa-fisk-image-0001.wepb',
         'caption' : 'Imagem 3d - Maquete - Evento Fisk ',
         'alt' : 'Imagem 3d - Maquete - Evento Fisk ',
         'categoria': 'Eventos'
@@ -589,7 +589,7 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/CS -SC - FISK -Festa 0020000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-festa-fisk-3d-imagem-002.wepb',
         'caption' : 'Imagem 3d - Maquete - Evento Fisk ',
         'alt' : 'Imagem 3d - Maquete - Evento Fisk ',
         'categoria': 'Eventos'
@@ -607,7 +607,7 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Estande Wacker - 0060000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-stand-wacker-vista-1.webp',
         'caption' : 'Imagem 3d - Maquete - Stand Wacker ',
         'alt' : 'Imagem 3d - Maquete - Stand Wacker ',
         'categoria': 'Stands'
@@ -616,7 +616,7 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Estande Wacker - 0070000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-stand-Stand-wacker-vista-2.webp',
         'caption' : 'Imagem 3d - Maquete - Stand Wacker ',
         'alt' : 'Imagem 3d - Maquete - Stand Wacker ',
         'categoria': 'Stands'
@@ -625,7 +625,7 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Estande Wacker - top0005.jpg',
+        'image': 'http://www.poppymidia.com.br/images/imagem-3d-maquete-stand-3d-vista-top.webp',
         'caption' : 'Imagem 3d - Maquete - Stand Wacker ',
         'alt' : 'Imagem 3d - Maquete - Stand Wacker ',
         'categoria': 'Stands'
@@ -634,7 +634,7 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Exeltis - Conv - credenciamento0000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/imagem-3d-maquete-eletronica-3d-credenciamento.webp',
         'caption' : 'Imagem 3d - Maquete - Stand Wacker ',
         'alt' : 'Imagem 3d - Maquete - Stand Wacker ',
         'categoria': 'Eventos'
@@ -643,7 +643,7 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Exeltis - Conv - festa 0010000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem3d-exeltis.webp',
         'caption' : 'Imagem 3d - Maquete - Eventos Exeltis ',
         'alt' : 'Imagem 3d - Maquete - Stand Wacker ',
         'categoria': 'Eventos'
@@ -652,7 +652,7 @@ const data=[
     {
         'width': '1920',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Exeltis - Conv - festa 0020000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete3d-evento-exeltis-imagem1.webp',
         'caption' : 'Imagem 3d - Maquete - Eventos Exeltis ',
         'alt' : 'Imagem 3d - Maquete - Stand Wacker ',
         'categoria': 'Eventos'
@@ -661,7 +661,7 @@ const data=[
     {
         'width': '1280',
         'height': '720',
-        'image': 'http://www.poppymidia.com.br/images/f5176b46-2d81-495a-b961-a8ac8ea215b2.jpeg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem-arquitetura-residencial.wepb',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -670,7 +670,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/frente.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem-arquitetura-residencial-frente-fachada.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -678,24 +678,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Fundo.jpg',
-        'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
-        'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
-        'categoria': 'Arquitetura'
-    },
-
-    {
-        'width': '1980',
-        'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Galuber fachada.jpg',
-        'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
-        'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
-        'categoria': 'Arquitetura'
-    },
-    {
-        'width': '1980',
-        'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Galuber gourmet.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem-arquitetura-residencial-fachada-inferior.wepb',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -704,7 +687,15 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Galuber posterior (1).jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem3d-arquitetura-glauber-fachada.wepb',
+        'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
+        'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
+        'categoria': 'Arquitetura'
+    },
+    {
+        'width': '1980',
+        'height': '1080',
+        'image': 'http://www.poppymidia.com.br/images/maquete3d-imagem3d-arquitetura-area-gourmet-glauber.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -713,7 +704,16 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Galuber posterior (3).jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem-3d-arquitetura-fachada-posterior.webp',
+        'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
+        'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
+        'categoria': 'Arquitetura'
+    },
+
+    {
+        'width': '1980',
+        'height': '1080',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem-3d-arquitetura-fachada-posterior-2.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -731,7 +731,7 @@ const data=[
      {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Glauber cozinha 13.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem-3d-arquitetura-cozinha-glauber.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -740,7 +740,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Glauber sala fundo 13.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem-3d-arquitetura-sala.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -749,7 +749,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Glauber sala13.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem-3d-arquitetura-sala-2.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -758,7 +758,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Glauberest.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Glauberest.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -767,7 +767,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Glauberquartoauto.jpg',
+        'image': 'http://www.poppymidia.com.br/images/3d-imagem-maquete-glauber-quarto.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -812,7 +812,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Ju Fabio frente.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem-3d-arquitetura-frente-residencial.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -829,7 +829,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/ligia fernando piscina.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem-3d-arquitetura-piscina.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -838,7 +838,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/ligia fernando.jpg',
+        'image': 'http://www.poppymidia.com.br/images/maquete-3d-imagem-3d-arquitetura-fachada-ligia.webp',
         'caption' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'alt' : 'Imagem 3d - Maquete - Arquitetura Residencial ',
         'categoria': 'Arquitetura'
@@ -847,7 +847,15 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Loreal - Mani Manioca - 002.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Loreal-Evento-Maquete-eletronica-eventos-3d-imagem3d-imagem2.webp',
+        'caption' : 'Imagem 3d - Maquete - Evento Loreal Manioca ',
+        'alt' : 'Imagem 3d - Maquete -  Evento Loreal Manioca ',
+        'categoria': 'Eventos'
+    },
+    {
+        'width': '1980',
+        'height': '1080',
+        'image': 'http://www.poppymidia.com.br/images/Loreal-Evento-Maquete-eletronica-eventos-3d-imagem3d.webp',
         'caption' : 'Imagem 3d - Maquete - Evento Loreal Manioca ',
         'alt' : 'Imagem 3d - Maquete -  Evento Loreal Manioca ',
         'categoria': 'Eventos'
@@ -856,7 +864,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Loreal - Mani Manioca - 003.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Loreal-Evento-Maquete-eletronica-eventos-3d-imagem3d-imagem3.webp',
         'caption' : 'Imagem 3d - Maquete - Evento Loreal Manioca ',
         'alt' : 'Imagem 3d - Maquete -  Evento Loreal Manioca ',
         'categoria': 'Eventos'
@@ -865,7 +873,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/MA-AM- auditorio0000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Evento-Americanas-maquete-eletronica-eventos-3d.webp',
         'caption' : 'Imagem 3d - Maquete - Evento Americanas ',
         'alt' : 'Imagem 3d - Maquete -  Evento Americanas ',
         'categoria': 'Eventos'
@@ -874,7 +882,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/MA-AM- foyer 0030000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Evento-Americanas-maquete-eletronica-eventos-3d-foyer.webp',
         'caption' : 'Imagem 3d - Maquete - Evento Americanas ',
         'alt' : 'Imagem 3d - Maquete -  Evento Americanas ',
         'categoria': 'Eventos'
@@ -883,7 +891,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/MA-AM- salao 0020000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Evento-Americanas-maquete-eletronica-eventos-3d-salao.webp',
         'caption' : 'Imagem 3d - Maquete - Evento Americanas ',
         'alt' : 'Imagem 3d - Maquete -  Evento Americanas ',
         'categoria': 'Eventos'
@@ -892,7 +900,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Nike-02_0000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Maquete-3d-Eventos-Nike-imagem-3d.webp',
         'caption' : 'Imagem 3d - Maquete - Evento Nike ',
         'alt' : 'Imagem 3d - Maquete -  Evento Nike',
         'categoria': 'Eventos'
@@ -901,7 +909,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Pharmaesthetics 0010000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Pharmaesthetics-0010000.webp',
         'caption' : 'Imagem 3d - Maquete - Stand Pharmaesthetics ',
         'alt' : 'Imagem 3d - Maquete -  Stand Pharmaesthetics',
         'categoria': 'Stands'
@@ -910,7 +918,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Pharmaesthetics 0020000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Pharmaesthetics-0020000.webp',
         'caption' : 'Imagem 3d - Maquete - Stand Pharmaesthetics ',
         'alt' : 'Imagem 3d - Maquete -  Stand Pharmaesthetics',
         'categoria': 'Stands'
@@ -919,7 +927,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Pharmaesthetics 0030000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/Pharmaesthetics-0030000.webp',
         'caption' : 'Imagem 3d - Maquete - Stand Pharmaesthetics ',
         'alt' : 'Imagem 3d - Maquete -  Stand Pharmaesthetics',
         'categoria': 'Stands'
@@ -1182,7 +1190,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/TEVA - Conv - Instagramavel0000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/TEVA-maquete-3d-eventos-instagramavavel.webp',
         'caption' : 'Imagem 3d - Maquete -Evento Teva ',
         'alt' : 'Imagem 3d - Maquete -  Evento Teva',
         'categoria': 'Evento'
@@ -1192,7 +1200,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/TEVA - Conv - Jantar 0010000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/TEVA-maquete-3d-eventos-jantar.webp',
         'caption' : 'Imagem 3d - Maquete -Evento Teva ',
         'alt' : 'Imagem 3d - Maquete -  Evento Teva',
         'categoria': 'Evento'
@@ -1200,16 +1208,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/TEVA - Conv - plenaria principal 0020000.jpg',
-        'caption' : 'Imagem 3d - Maquete -Evento Teva ',
-        'alt' : 'Imagem 3d - Maquete -  Evento Teva',
-        'categoria': 'Evento'
-    },
-
-    {
-        'width': '1980',
-        'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Teva Hilton Hotel (1).jpg',
+        'image': 'http://www.poppymidia.com.br/images/TEVA-maquete-3d-eventos-plenaria-principal.webp',
         'caption' : 'Imagem 3d - Maquete -Evento Teva ',
         'alt' : 'Imagem 3d - Maquete -  Evento Teva',
         'categoria': 'Evento'
@@ -1218,7 +1217,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Teva Hilton Hotel (2).jpg',
+        'image': 'http://www.poppymidia.com.br/images/Teva-maquete-3d-evento-hotel.webp',
         'caption' : 'Imagem 3d - Maquete -Evento Teva ',
         'alt' : 'Imagem 3d - Maquete -  Evento Teva',
         'categoria': 'Evento'
@@ -1227,7 +1226,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Teva Hilton Hotel (3).jpg',
+        'image': 'http://www.poppymidia.com.br/images/Teva-maquete-3d-evento-hotel-imagem2.webp',
         'caption' : 'Imagem 3d - Maquete -Evento Teva ',
         'alt' : 'Imagem 3d - Maquete -  Evento Teva',
         'categoria': 'Evento'
@@ -1236,7 +1235,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Teva Hilton Hotel (4).jpg',
+        'image': 'http://www.poppymidia.com.br/images/Teva-maquete-3d-evento-hotel-imagem3.webp',
         'caption' : 'Imagem 3d - Maquete -Evento Teva ',
         'alt' : 'Imagem 3d - Maquete -  Evento Teva',
         'categoria': 'Evento'
@@ -1245,7 +1244,16 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Teva Hilton Hotel (7).jpg',
+        'image': 'http://www.poppymidia.com.br/images/Teva-maquete-3d-evento-hotel-imagem4.wepb',
+        'caption' : 'Imagem 3d - Maquete -Evento Teva ',
+        'alt' : 'Imagem 3d - Maquete -  Evento Teva',
+        'categoria': 'Evento'
+    },
+
+    {
+        'width': '1980',
+        'height': '1080',
+        'image': 'http://www.poppymidia.com.br/images/Teva-maquete-3d-evento-hotel-imagem7.webp',
         'caption' : 'Imagem 3d - Maquete -Evento Teva ',
         'alt' : 'Imagem 3d - Maquete -  Evento Teva',
         'categoria': 'Evento'
@@ -1263,7 +1271,7 @@ const data=[
     {
         'width': '1980',
         'height': '1080',
-        'image': 'http://www.poppymidia.com.br/images/Tokio - UOL - game area 0030000.jpg',
+        'image': 'http://www.poppymidia.com.br/images/imagem-3d-maquete-uol-evento-tokio-marine.webp',
         'caption' : 'Imagem 3d - Maquete -Evento Uol ',
         'alt' : 'Imagem 3d - Maquete -  Evento Uol',
         'categoria': 'Evento'

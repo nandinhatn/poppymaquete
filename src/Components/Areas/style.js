@@ -1,6 +1,6 @@
 import styled, {keyframes} from "styled-components";
 
-import Foto from '../../assets/backareas.jpg';
+import Foto from '../../assets/backareas.webp';
 
 
 

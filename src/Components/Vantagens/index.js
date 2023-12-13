@@ -13,7 +13,7 @@ import {BackColor,
     ContainerLeft,
     Icone} from './style'
 
-import Foto from '../../assets/UOL-gamearea0030000.jpg';
+import Foto from '../../assets/UOL-gamearea0030000.webp';
 import Buttons from '../Buttons';
 const Vantagens = ()=>{
     return (
@@ -65,7 +65,7 @@ const Vantagens = ()=>{
         </ContainerLeft>
         <ContainerImage>
             <ContainerBacks>
-                <Image src={Foto}></Image>
+                <Image alt="Imagem 3d do Uol" src={Foto}></Image>
                 <BackColor></BackColor>
             </ContainerBacks>
         </ContainerImage>

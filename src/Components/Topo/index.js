@@ -8,7 +8,7 @@ const Topo = ()=>{
     return(
         <>
         <Container>
-            <Img onClick={()=> navigate('/')} src={Logo} />
+            <Img onClick={()=> navigate('/')} alt="Logo da Poppy empresa que desenvolve maquete eletrônica" src={Logo} />
             <Menu>
             
     <li onClick={()=> navigate('/')}>Home</li>

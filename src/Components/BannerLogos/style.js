@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import Foto from '../../assets/background-logos.jpg';
+import Foto from '../../assets/background-logos.webp';
 
 export const Container = styled.div`
 

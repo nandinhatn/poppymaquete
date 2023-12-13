@@ -4,12 +4,21 @@ import { Gallery, Item } from 'react-photoswipe-gallery'
 import {Container, Image,H2} from './style'
 import Foto1 from '../../assets/Becksaerea0000.jpg'
 import Foto2 from '../../assets/Becks URBECK_S .jpg'
-import data from '../../assets/Data/datafake'
+/* import data from '../../assets/Data/datafake' */
+import axios from 'axios'
 
 const Galeria = ()=>{
 
    const [portTotal, setPortTotal] = useState();
    const [portReduz, setPortReduz] = useState();
+   const [dataImage, setDataImage] = useState();
+
+
+   const saveData= ()=>{
+
+   axios('https:///www.poppymidia.com.br',{ method:'GET', mode:'no-cors'}).then((res)=>{ console.log(res)})
+    
+   }
 
 
 
@@ -32,9 +41,13 @@ const Galeria = ()=>{
    }
 
 useEffect(()=> {
-  console.log(data)
+/*   console.log(data)
   setPortTotal(data);
-  sortPort()
+  sortPort() */
+},[])
+
+useEffect(()=>{
+  saveData()
 },[])
 
 
@@ -56,7 +69,7 @@ useEffect(()=> {
       caption={el.caption}
     >
       {({ ref, open }) => (
-        <Image ref={ref}  onClick={open} src={el.image} />
+        <Image ref={ref} alt={el.alt} onClick={open} src={el.image} />
       )}
     </Item> : ''}
       

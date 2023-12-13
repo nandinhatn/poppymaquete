@@ -15,7 +15,7 @@ const Home = ()=>{
         <Body/>
 <Vantagens/>
 <Areas/>
-<Galeria/>
+ <Galeria/> 
 <BannerLogos/>
 <H2>Fique a vontade para entrar em contato</H2>
 <Contact/>

@@ -27,7 +27,7 @@ const Contador = (props)=>{
         <>
         <ContainerFull>
         <ContainerIcone>
-        <Container><Image src={props.image} />
+        <Container><Image alt={`Imagem icone da ${props.texto}`} src={props.image} />
         
         </Container>
 
